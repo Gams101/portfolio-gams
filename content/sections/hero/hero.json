@@ -1,22 +1,22 @@
 {
-  "intro": "Hej",
+  "intro": "Hi there!",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
-    "alt": "My Photo"
+    "src": "../../images/Gams.png",
+    "alt": "Gams"
   },
   "image": {
-    "src": "../../images/waving-hand.png",
-    "alt": "Waving Hand Emoji"
+    "src": "../../images/philippines-flag.png",
+    "alt": "Philippine Flag"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "Meet Gams, a Fullstack Developer",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
+    "prefix": "",
+    "highlight": "",
+    "suffix": ""
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "I focus on building better and elegant software solutions by using design principles, development methodologies, agile frameworks and programming disciplines.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": false
   }
 }
