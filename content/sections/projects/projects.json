@@ -37,6 +37,42 @@
       ]
     },
     {
+      "visible": true,
+      "category": "🏦 Finance",
+      "title": "FIN-PAY Technology",
+      "description": "Payment aggregator integrating Crypto, Tap-to-Pay, and BNPL platforms (Stripe, Paypal, Merchant Warrior, Binance, Payright, Zippay, Fupay).",
+      "tags": ["React", "Laravel", "React Native"],
+      "image": {
+        "src": "../../images/finpay-80.png",
+        "alt": "FIN-PAY",
+        "linkTo": "https://finpay.co/"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://finpay.co/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "📝 SaaS",
+      "title": "HomeSquad",
+      "description": "Feature-Rich Workforce Management Software For Remote Teams.",
+      "tags": ["React", "Laravel"],
+      "image": {
+        "src": "../../images/homesquad-80.png",
+        "alt": "HomeSquad",
+        "linkTo": "https://homesquad.io/"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://homesquad.io/"
+        }
+      ]
+    },
+    {
         "visible": true,
         "category": "✅ Mobile Checker",
         "title": "Checkmate: Educator's Toolkit",
