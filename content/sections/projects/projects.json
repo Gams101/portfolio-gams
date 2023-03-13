@@ -5,7 +5,7 @@
       "category": "📍 Marketing",
       "title": "Tussendoor",
       "description": "Tussendoor Internet & Marketing specializes in designing websites and provides its customers with an effective marketing service.",
-      "tags": ["React", "Laravel"],
+      "tags": ["React", "Typescript", "Laravel", "SCSS"],
       "image": {
         "src": "../../images/tussendoor-80.png",
         "alt": "Tussendoor",
@@ -23,7 +23,7 @@
       "category": "☎️ VoIP",
       "title": "Verbonden",
       "description": "Verbonden.nl is one of the largest telecom service providers specifically for VoIP telephony.",
-      "tags": ["React", "Laravel"],
+      "tags": ["React", "Typescript", "Laravel", "SCSS"],
       "image": {
         "src": "../../images/verbonden-80.png",
         "alt": "Verbonden",
@@ -41,7 +41,7 @@
       "category": "🏦 Finance",
       "title": "FIN-PAY Technology",
       "description": "Payment aggregator integrating Crypto, Tap-to-Pay, and BNPL platforms (Stripe, Paypal, Merchant Warrior, Binance, Payright, Zippay, Fupay).",
-      "tags": ["React", "Laravel", "React Native"],
+      "tags": ["React", "Typescript", "Laravel", "React Native"],
       "image": {
         "src": "../../images/finpay-80.png",
         "alt": "FIN-PAY",
@@ -59,7 +59,7 @@
       "category": "📝 SaaS",
       "title": "HomeSquad",
       "description": "Feature-Rich Workforce Management Software For Remote Teams.",
-      "tags": ["React", "Laravel"],
+      "tags": ["React", "Typescript", "Laravel"],
       "image": {
         "src": "../../images/homesquad-80.png",
         "alt": "HomeSquad",
@@ -77,7 +77,7 @@
         "category": "✅ Mobile Checker",
         "title": "Checkmate: Educator's Toolkit",
         "description": "Next-generation phone camera checking, test-creation, and score-storage toolkit for your daily teaching needs.",
-        "tags": ["Nuxt", "Vue"],
+        "tags": ["Nuxt", "Vue", "Tailwind CSS"],
         "image": {
           "src": "../../images/checkmate-80.png",
           "alt": "Checkmate",
